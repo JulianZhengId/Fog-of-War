@@ -10,5 +10,5 @@ Procedure :
 
 Important : 
 - Set the unexplored plane layer to "Unexplored"
-- Set the default plane to "Level"
+- Set the default plane layer to "Level"
 - Make the minimap camera to render "Unexplored" (Culling Mask)

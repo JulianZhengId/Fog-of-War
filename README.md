@@ -1,8 +1,6 @@
 # Fog-of-War
-This is a simple fog of war
-When player moves, minimap will be revealed with radius 20
-Space to jump
-WASD and Arrow Keys to move
+This is a simple fog of war. <br />
+When player moves, minimap will be revealed with radius 20. <br />
 
 Procedure :
 - Set up 2 Planes : Default Plane and Unexplored Plane
